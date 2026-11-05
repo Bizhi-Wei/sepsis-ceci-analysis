@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these analysis scripts, please cite this release."
+type: software
+title: "Analysis code for Early Clinical Endothelial-Coagulopathy Index Trajectories and Mortality in Sepsis"
+authors:
+  - family-names: Wei
+    given-names: Bizhi
+version: 1.0.0
+repository-code: "https://github.com/Bizhi-Wei/sepsis-ceci-analysis"
+url: "https://github.com/Bizhi-Wei/sepsis-ceci-analysis/releases/tag/v1.0.0"

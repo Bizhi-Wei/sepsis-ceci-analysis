@@ -1,0 +1,4 @@
+# Python versions used for the snapshot's local eICU reproduction.
+duckdb==1.5.5
+numpy==2.4.6
+pandas==3.0.3
